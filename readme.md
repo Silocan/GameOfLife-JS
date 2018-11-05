@@ -1,4 +1,9 @@
 # Pense-bête GIT 
+
+Configuration initiale de GIT
+- git config --global user.name "MON PSEUDO"
+- git config --global user.email "MON_EMAIL"
+
 Cloner un dépôt
 - git clone https://github.com/Silocan/GameOfLife-JS.git
 
