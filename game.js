@@ -30,3 +30,10 @@ function getNombreCellulesMortes(x, y) {
 
     return _dead;
 }
+
+// On parcours la grille
+for (indexLigne = 0; indexLigne < 5; indexLigne++) {
+    for (indexColonne = 0; indexColonne < 5; indexColonne++) {
+
+    }
+}
