@@ -4,6 +4,12 @@ Configuration initiale de GIT
 - git config --global user.name "MON PSEUDO"
 - git config --global user.email "MON_EMAIL"
 
+Fichier de config
+- ~/.gitconfig
+
+Modèle pour les commits
+- ~/.gitmessage
+
 Cloner un dépôt
 - git clone https://github.com/Silocan/GameOfLife-JS.git
 
@@ -19,3 +25,4 @@ Déclarer un dépôt distant
 
 Envoyer les modifications sur un dépôt distant
 - git push DEPOT_DISTANT branche_locale
+
